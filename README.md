@@ -54,7 +54,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
         <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
     </td>
     <td align='center' width="190">
-        <img src="https://www.svgrepo.com/show/504947/termius.svg">
+        <img src="https://images.g2crowd.com/uploads/product/hd_favicon/1542150809/termius.svg">
     </td>
     <td align='center'>
             <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
