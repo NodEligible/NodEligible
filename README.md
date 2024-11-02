@@ -74,7 +74,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
         <img src="https://www.vectorlogo.zone/logos/openssl/openssl-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/contabo.svg">
+        <img src="https://raw.githubusercontent.com/dochne/wappalyzer/main/src/images/icons/Contabo.svg">
     </td>
 </tr>
 </table>
