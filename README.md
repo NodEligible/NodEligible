@@ -48,7 +48,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
             <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="110">
     </td>
     <td align='center' width="190">
-            <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-vertical.svg">
+            <img src="https://raw.githubusercontent.com/miguelsolorio/vscode-symbols/main/src/icons/files/rust.svg">
     </td>
      <td align='center' width="190">
         <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
