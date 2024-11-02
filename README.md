@@ -71,7 +71,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.svgrepo.com/show/331349/contabo-v2.svg">
+        <img src="https://www.vectorlogo.zone/logos/openssl/openssl-ar21.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-vertical.svg">
