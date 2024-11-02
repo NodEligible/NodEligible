@@ -13,5 +13,11 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
 
 ## Github Activity :sunglasses:
 
-[![image](https://github.com/user-attachments/assets/84100a5e-9448-497b-9e73-7c423d3bfb0d)](https://raw.githubusercontent.com/NodEligible/programs/refs/heads/main/snake.svg)
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+###
 
