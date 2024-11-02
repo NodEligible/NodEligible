@@ -11,5 +11,6 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
   ██║░╚███║╚█████╔╝██████╔╝  ███████╗███████╗██║╚██████╔╝██║██████╦╝███████╗███████╗
   ╚═╝░░╚══╝░╚════╝░╚═════╝░  ╚══════╝╚══════╝╚═╝░╚═════╝░╚═╝╚═════╝░╚══════╝╚══════╝
 
-## Github Activity :sunglasses:
+## Github Activity :sunglasses:![image](https://github.com/user-attachments/assets/b543ac78-f312-4344-94e3-b2f7c4b57038)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NodEligible&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
