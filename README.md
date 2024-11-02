@@ -16,7 +16,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
 ###
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="assets/snake.svg" alt="snake"/>
 </p>
 
 ###
