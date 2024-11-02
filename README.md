@@ -45,7 +45,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
 </tr>
 <tr>
     <td align='center' width="190">
-            <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>
+            <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="110">
     </td>
     <td align='center' width="190">
             <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>
