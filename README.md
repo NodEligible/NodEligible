@@ -48,7 +48,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
             <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="110">
     </td>
     <td align='center' width="190">
-            <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>
+            <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-vertical.svg">
     </td>
      <td align='center' width="190">
         <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
@@ -74,7 +74,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-vertical.svg">
     </td>
 </tr>
 </table>
