@@ -74,7 +74,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
         <img src="https://www.vectorlogo.zone/logos/openssl/openssl-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg">
     </td>
 </tr>
 </table>
