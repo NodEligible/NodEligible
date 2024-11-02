@@ -62,7 +62,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
