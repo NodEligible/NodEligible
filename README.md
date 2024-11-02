@@ -21,7 +21,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
 
 ###
 
-<h2 align='center'><i>Languages and Tools</i></h2>
+<h2 align='center'><i>Technologies and Tools</i></h2>
 
 ###
 
