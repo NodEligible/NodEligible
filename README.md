@@ -78,3 +78,21 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
     </td>
 </tr>
 </table>
+
+<table>
+<caption>NodEligible</caption>
+<thead>
+<tr>
+<th colspan="2">Quick Info</th>
+</tr>
+</thead>
+<tbody>
+<tr><th scope='row'>Name</th><td>NodEligible</td></tr>
+<tr><th scope='row'>Born</th><td><time datetime="2002-01-11 08:00">11 January, 2002</time></td></tr>
+<tr><th scope='row'>Education</th><td>B.E.</td></tr>
+<tr><th scope='row'>Alma mater</th><td>Fr C Rodrigues institute of technology</td></tr>
+<tr><th scope='row'>Nationality</th><td>Indian</td></tr>
+<tr><th scope='row'>Occupation</th><td>Web Developer</td></tr>
+<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, SEO</td></tr>
+</tbody>
+</table>
