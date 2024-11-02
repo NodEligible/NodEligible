@@ -57,7 +57,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
     <td align='center'>
-            <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg">
+            <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
     </td>
 </tr>
 <tr>
