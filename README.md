@@ -34,7 +34,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
         <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
     </td>
      <td align='center' width="190">
         <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>
