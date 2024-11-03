@@ -82,15 +82,17 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
 </div>
 
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=NodEligible&theme=tokyonight&card_width=400&card_height=120" alt="GitHub Streak"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=NodEligible&theme=midnight-purple&show_icons=true" alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
 
-  <!-- GitHub Streak Widget -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=NodEligible&theme=tokyonight&card_width=400&card_height=120" alt="GitHub Streak"/>
-  </a>
-
-  <!-- GitHub Stats Widget -->
-  <img src="https://github-readme-stats.vercel.app/api?username=NodEligible&theme=midnight-purple&show_icons=true" alt="GitHub Stats" />
-
-</div>
 
