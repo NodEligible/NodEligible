@@ -100,7 +100,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NodEligible&theme=2077&exclude={exclude}"/>
+        <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-ar21.svg"/>
       </a>
     </td>
     <td>
