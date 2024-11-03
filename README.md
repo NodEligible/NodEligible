@@ -86,7 +86,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=NodEligible&theme=ambient-gradient&card_width=420&card_height=194" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=NodEligible&theme=sunset-gradient&card_width=420&card_height=194" alt="GitHub Streak"/>
       </a>
     </td>
     <td>
