@@ -96,3 +96,16 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
 </table>
 
 
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NodEligible&theme=2077&exclude={exclude}"/>
+      </a>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NodEligible&theme=aura&exclude={exclude}"/>
+    </td>
+  </tr>
+</table>
+
