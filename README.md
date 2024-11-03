@@ -90,7 +90,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
       </a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NodEligible&theme=midnight-purple&show_icons=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=NodEligible&theme=ambient_gradient&show_icons=true" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
