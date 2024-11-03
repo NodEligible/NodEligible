@@ -99,18 +99,3 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
     </td>
   </tr>
 </table>
-
-
-<table>
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src=""/>
-      </a>
-    </td>
-    <td>
-      <img src=""/>
-    </td>
-  </tr>
-</table>
-
