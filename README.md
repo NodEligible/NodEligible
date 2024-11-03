@@ -11,7 +11,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
   ██║░╚███║╚█████╔╝██████╔╝  ███████╗███████╗██║╚██████╔╝██║██████╦╝███████╗███████╗
   ╚═╝░░╚══╝░╚════╝░╚═════╝░  ╚══════╝╚══════╝╚═╝░╚═════╝░╚═╝╚═════╝░╚══════╝╚══════╝
 
-## Github Activity :sunglasses:
+## Сontributions in the last year :sunglasses:
 
 ###
 
