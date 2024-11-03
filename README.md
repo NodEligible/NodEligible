@@ -81,6 +81,6 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
 
 ###
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NodEligible&theme=tokyonight&card_width=400&card_height=120)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NodEligible&theme=midnight-purple&show_icons=true)
+|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NodEligible&theme=tokyonight&card_width=400&card_height=120)](https://git.io/streak-stats)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NodEligible&theme=midnight-purple&show_icons=true)|
 
 ###
