@@ -28,7 +28,10 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+        <a href="https://www.linux.org/pages/download/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" 
+         alt="Linux" height="50" />
+</a>
     </td>
     <td align='center' width="190">
         <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
