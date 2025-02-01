@@ -129,3 +129,15 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
     </td>
   </tr>
 </table>
+
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+<lottie-player src="https://lottie.host/c25f70bf-f574-4507-a1b1-acbea5617516/x8JKcdNTDC.json"
+               background="transparent"
+               speed="1"
+               style="width: 300px; height: 300px;"
+               loop
+               autoplay>
+</lottie-player>
+
