@@ -113,7 +113,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
 
 ###
 
-<h2 align='center'><i>Profile stats :chart_with_upwards_trend:</i></h2>
+<h2 align='center'><i>Animation of interaction with projects :chart_with_upwards_trend:</i></h2>
 
 ###
 
