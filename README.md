@@ -130,6 +130,6 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
   </tr>
 </table>
 
-![Lottie Animation](https://raw.githubusercontent.com/NodEligible/NodEligible/main/animation/Animation_1738371526932.gif)
+
 
 
