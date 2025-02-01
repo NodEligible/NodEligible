@@ -130,6 +130,8 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
   </tr>
 </table>
 
+![Animation](https://raw.githubusercontent.com/NodEligible/NodEligible/main/animation/Animation_city.gif)
+
 
 
 
