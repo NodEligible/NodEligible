@@ -117,7 +117,6 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
 
 ###
 
-<img src="https://raw.githubusercontent.com/NodEligible/NodEligible/main/animation/animation_server_650_300.webp" width="1000" height="auto">
 
 
 
