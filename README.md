@@ -117,19 +117,6 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
 
 ###
 
-<table>
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=NodEligible&theme=sunset-gradient&card_width=420&card_height=194" alt="GitHub Streak"/>
-      </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NodEligible&theme=ambient_gradient&show_icons=true" alt="GitHub Stats"/>
-    </td>
-  </tr>
-</table>
-
 <img src="https://raw.githubusercontent.com/NodEligible/NodEligible/main/animation/Animation_server.webp" width="800" height="auto">
 
 
