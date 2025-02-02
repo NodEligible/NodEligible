@@ -116,6 +116,7 @@ Join us as we explore blockchain’s potential and build reliable decentralized 
 <h2 align='center'><i>Animation of interaction with projects</i></h2>
 
 ###
+![Animation](https://raw.githubusercontent.com/NodEligible/NodEligible/main/animation/Animation_spirale.webp)
 
 
 
